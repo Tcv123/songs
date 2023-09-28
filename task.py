@@ -1,0 +1,1 @@
+winEdit={"Elizabeth":["Charles","Anne"],"Charles":["William","Harry"],"William":["George","Charlotte"],"Harry":["Archie","Lilibet"],"George":["-1","-1"],"Charlotte":["-1","-1"],"Archie":["-1","-1"],"Lilibet":["-1","-1"],"Anne":["Zara","Peter"],"Zara":["-1","-1"],"Peter":["-1","-1"]}
